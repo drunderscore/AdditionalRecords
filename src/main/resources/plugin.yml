@@ -1,0 +1,10 @@
+name: AdditionalRecords
+version: 1.0.0
+api-version: 1.17
+main: xyz.jame.additionalrecords.AdditionalRecords
+description: Allows for the creation of custom music discs with custom sounds.
+
+commands:
+  additionalrecords:
+    aliases: [ arecords ]
+    permission: additionalrecords.additionalrecords
